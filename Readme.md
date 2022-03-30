@@ -1,7 +1,7 @@
 # Личный проект «Мишка» 
 
 * Студент: [Алексей Шаматурин](https://up.htmlacademy.ru/adaptive/25/user/1971211).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктория Куликова](https://up.htmlacademy.ru/profession/frontender/13/adaptive/25/user/293745).
 
 ---
 
